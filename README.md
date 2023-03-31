@@ -10,7 +10,7 @@ Each card includes references to the literature. The references can be checked [
 
 ## How to play
 
-You can play this game directly if you have a copy of Ticket to Ride San Fransisco. The rules are [here](./rules.md). If you have a different version of Ticket to Ride, adapting the rules to that version should be fairly simple.
+You can play this game directly if you have a copy of Ticket to Ride San Fransisco. The additional rules are in the report. If you have a different version of Ticket to Ride, adapting the rules to that version should be fairly simple.
 
 Lastly, feel free to use the cards to play adapt other games, use them as a standalone card deck, or just read through them. 
 
