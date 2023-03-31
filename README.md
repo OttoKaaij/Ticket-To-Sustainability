@@ -5,6 +5,9 @@ This repository should provide you with everything you need to play, and learn a
 
 Read the report [here]().
 
+Each card includes references to the literature. The references can be checked [here](References.pdf), if you are interested in reading more.
+
+
 ## How to play
 
 You can play this game directly if you have a copy of Ticket to Ride San Fransisco. The rules are [here](./rules.md). If you have a different version of Ticket to Ride, adapting the rules to that version should be fairly simple.
