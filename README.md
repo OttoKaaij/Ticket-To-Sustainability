@@ -13,4 +13,4 @@ Lastly, feel free to use the cards to play adapt other games, use them as a stan
 
 ## Materials
 
-The cards can be found [here](./cards.pdf). Print them, cut them, and you should be ready to go.
+The cards can be found [here](./Cards.pdf). Print them, cut them, and you should be ready to go.
