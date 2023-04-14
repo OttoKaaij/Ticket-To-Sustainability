@@ -3,10 +3,9 @@
 Ticket To Sutainability is an expansion pack for [Ticket to Ride San Fransisco](https://www.daysofwonder.com/tickettoride/en/san-francisco).
 This repository should provide you with everything you need to play, and learn about sustainable software engineering principles along the way!
 
-Read the report [here]().
+Read the full report [here](Report.pdf).
 
 Each card includes references to the literature. The references can be checked [here](References.pdf), if you are interested in reading more.
-
 
 ## How to play
 
