@@ -19,6 +19,8 @@ The cards can be found [here](./Cards.pdf). Print them, cut them, and you should
 
 ## Rules 
 
+The rules of the game are very similar to normal ticket to ride. It is probably easiest to understand ticket to ride first.
+
 ## The objective. 
 
 Have the most points at the end of the game to win. Points are earned in three ways: 
