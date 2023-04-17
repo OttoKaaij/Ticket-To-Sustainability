@@ -58,3 +58,8 @@ When a player has less than three Cable Cars remaining, everyone gets one final 
 - each completed Destination Ticket, as stated on the Destination Ticket. Deduct the stated points for each failed Destination Ticket.
 - each unique Green Foundation Token collected. The more unique tokens you have the more points you get, as stated on the board.
 - each Sustainability Token, which gives one point each.
+
+## Disclaimers
+
+Since energy consumption of processes or products are dependent on many confounding factors, (such as: room temperature, background processes, etc.), the values presented on the dirty cards are not absolute and should be taken with a grain of salt.
+
